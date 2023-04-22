@@ -14,3 +14,15 @@ pip install spotipy
 ```
 pip install python-dotenv
 ```
+<h4>4. python-telegram-bot: Paket ini memungkinkan Anda untuk berinteraksi dengan API Telegram dan membangun bot Telegram. Anda dapat menginstalnya dengan menjalankan perintah di CMD:</h4>
+
+```
+pip install python-telegram-bot
+```
+pip install python-telegram-bot
+```
+<h4>5. requests: Paket ini memungkinkan Anda untuk mengirim permintaan HTTP/HTTPS dari Python. Anda dapat menginstalnya dengan menjalankan perintah di CMD:</h4>
+
+```
+pip install requests
+```
