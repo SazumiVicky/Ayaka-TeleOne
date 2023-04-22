@@ -10,3 +10,7 @@ Untuk menjalankan script di atas pada Windows Command Prompt (CMD), Anda perlu m
 pip install spotipy
 ```
 <h4>3. python-dotenv: Paket ini memungkinkan Anda untuk menyimpan variabel lingkungan dalam file .env dan mengaksesnya secara aman dalam kode Anda. Anda dapat menginstalnya dengan menjalankan perintah di CMD:</h4>
+
+```
+pip install python-dotenv
+```
