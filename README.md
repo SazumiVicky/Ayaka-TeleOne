@@ -19,8 +19,7 @@ pip install python-dotenv
 ```
 pip install python-telegram-bot
 ```
-pip install python-telegram-bot
-```
+
 <h4>5. requests: Paket ini memungkinkan Anda untuk mengirim permintaan HTTP/HTTPS dari Python. Anda dapat menginstalnya dengan menjalankan perintah di CMD:</h4>
 
 ```
