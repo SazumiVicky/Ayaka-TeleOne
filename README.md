@@ -25,3 +25,8 @@ pip install python-telegram-bot
 ```
 pip install requests
 ```
+<h4>6. Setelah menginstal semua paket tersebut, Anda dapat menjalankan script dengan membuka CMD, menavigasi ke direktori tempat script disimpan, dan mengetik perintah:</h4>
+
+```
+py main.py
+```
